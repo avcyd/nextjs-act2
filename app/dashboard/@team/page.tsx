@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 interface TeamMember {
   id: number;
   name: string;
